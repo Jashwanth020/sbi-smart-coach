@@ -1,0 +1,9 @@
+# Backend
+backend/__pycache__/
+backend/.env
+backend/sbi_coach.db
+backend/venv/
+
+# Frontend (Vite usually handles this in frontend/.gitignore but adding here as fallback)
+frontend/node_modules/
+frontend/dist/
